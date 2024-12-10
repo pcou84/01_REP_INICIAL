@@ -3,3 +3,5 @@ Hola, soy XXX
 ¿Qué tal?
 
 Muy bien triple X
+
+¿Estas preparado?
